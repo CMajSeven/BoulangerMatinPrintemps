@@ -204,8 +204,8 @@ Celesta
 -------
 1-9: Part has staccatos, FS has legatos.
 11-12: Dynamics only in part.
-129-136: Only the upper octave is in the part.
-140: B in FS marked has B#, probably an error.
+129-136: ** Only the upper octave is in the part.
+140: B in FS marked as B#, probably an error.
 
 Harp
 ----
