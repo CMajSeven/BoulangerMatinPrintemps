@@ -174,7 +174,7 @@ Horns 1 and 2
 80-81: Crescendo only in part.
 86-87: Crescendo only in part.
 88: FS has D, Cb, Bb; part has F, Eb, Db. Based on cellos and duet version, part is correct.
-90: FS has half-note Bb. Part has quarter note Bb then dotted quarter note Gb.
+90: FS has half-note Bb. Part has quarter note Bb then dotted quarter note Gb (like cello part).
 128: Decrescendo only in part.
 170-171: Crescendo only over 170.2-.3 in FS.
 172: Crescendo and no tie in FS.
@@ -268,7 +268,7 @@ Use of up- and down-stem voices in "snare drum or castanet" part is very inconsi
 Celesta
 -------
 1-9: Part has staccatos, FS has legatos.
-11: Eb conflicts with duet version.
+11: ** Eb conflicts with duet version, but agrees with viola.
 11-12: Dynamics only in part.
 117: FS has D grace note. Part has D#. Minor second of part probably correct.
 129-136: ** Only the upper octave is in the part.
@@ -335,7 +335,7 @@ Violin I
 Violin II
 ---------
 7: p in part, pp in FS.
-11: E in FS, Eb in part. Eb conflicts with duet version, but follows other parts.
+11: ** E in FS, Eb in part. Eb conflicts with duet version, but follows other parts.
 11: Slurs stop here in FS, at 12 in part.
 12: p in FS, pp in part.
 15.3: FS has B4+G5, part has G4+D5. Harmony here (violins + violas) is different from duet version. Part would match violin I and violas better.
@@ -370,6 +370,7 @@ Violin II
 152-159: *** Part has pizz. eighth notes. FS has arco syncopated quarter notes.
 161: *** Part has eighth notes on single note G or Eb. FS has 32nd note tremolo between G and Eb.
 162: Crescendo only in FS. Slur over whole measure to next in FS, only over grace notes in part.
+162: Accidentals on trills only in part.
 167: sf only in part.
 168: Crescendo starts here in part, at 169 in FS.
 169-170: Part has "sf"s, FS has "mf"s
@@ -387,9 +388,9 @@ Violin II
 Violas
 ------
 11+: FS has alto clef instead of treble clef.
-11: Eb conflicts with duet version.
+11: ** Eb conflicts with duet version, but agrees with celesta.
 11: Slurs stop here in FS, at 12 in part. 
-14: Part has Fx s where FS has F s. Part is correct based on chamber version; changing to G s like Vl. II.
+14: Part has Fx s where FS has Fs. Part is correct based on chamber version; changing to G s like violin II.
 20: f in part, sf in FS. Should probably be mf with sf.
 21: Crescendo goes through beat 2 in part.
 26: FS says gracieux, part says généreux
@@ -397,16 +398,22 @@ Violas
 28: pp only in part.
 32-35: *** Div en 3 in FS, div en 2 in part. Lower staff of div.2 split.
 46: f in FS, ff in part.
+47: Lower part first tremolo between A and B in FS, between A and C in part. FS matches violin II.
 52-53: Crescendo only over 52.2 in part.
 61: No slur in FS.
-68-77.1: Alto solo is tacet instead of unis in FS. Part is unis.
+64: sf is on the solo pizz in part, but on the altri trill in FS. f only in part (which is louder than any other part).
+68-77.1: Alto solo is tacet instead of unis in FS. Part is unis. "div en 2." written in FS but does not continue after 68. 
+77: ** Transition from solo to div with no indication at 79/82 so it is unclear whether this is div or solo+altri.
+78: Slur only in FS.
 94-95: Slur over both measures in FS, one measure each in part.
-113-127: The double stop chords in part are split in FS (div -> div.2, div.2 -> div.3).
+113-127: ** The double stop chords in part are split in FS (div -> div.2, div.2 -> div.3). Solo at 121 continues from respective version.
 125-129: ** Solo is muted in part, unmuted in FS.
-129: Solo does not have the E in FS.
+129: ** Solo does not have the E in FS.
 131-138: Dynamics only in FS.
 137.1: FS has F s, part has G s. Probably part is correct, since cellos have F s to fill in the chord from chamber version.
+144: "jeu ordinaire" missing in FS.
 152-155: Slurs missing in FS.
+162: Sharp on the trill probably missing (i.e. trill to B#) based on duet.
 162: FS has G# instead of Gx.
 164-167: Crescendo only in 166 in FS. sf s only at 164 and 165 in part.
 170: Crescendo only in part.
@@ -416,6 +423,7 @@ Violas
 192-193: Crescendo only in part.
 192: Change to alto clef missing in part.
 196: f in FS, ff in part. Crescendo only in part.
+203: ff in FS, sff in part. Only ff in other parts.
 203.2: p only in part.
 
 Cellos
@@ -425,25 +433,32 @@ Cellos
 32-35: ** This is unis in part. Only lower divisi plays in FS.
 46: In part, upper divisi has (arco) B3, lower divisi has (pizz) F#4. In FS, unison B3 grace note to F#4 unmarked pizz or arco.
 52-53: Decrescendo only in FS.
-64: mf only in part.
+64: Solo with tutti in part only. mf only in part. arco missing
 66: p only in FS.
-68-71: *** Part has held dotted half-notes. FS has pattern similar to Vl. II.
+67: "lent" only in part.
+68-71: *** Part has held dotted half-notes holding first note of pattern. FS has pattern similar to violin II.
 68: The slur extends over the whole measure only in this measure.
 72-89: *** In part, this /solo/ is unison of all cellos. Lower divisi continues pattern in FS.
 78-85: ** This section of the /solo/ is an octave higher in the part.
 86: mf only in part. en dehors only in FS.
-90-92: ** In part, /solo/ holds Eb4 for 1 quarter-note and then drops to Cb4 for rest. Melody in chamber version holds Eb.
+90-92: ** In part, /solo/ holds Eb4 for 1 quarter-note and then drops to Cb4 for rest (like horn part). Melody in chamber version holds Eb.
 90: ** Lower divisi has Eb4 quarter note + eighth rest in part (continues from /solo/), rather than continuing pattern. 
 90: Last 3 eighth notes, part has Ab2 Db2 Ab2, FS has G2 D2 G2. Part probably correct based on other instruments and chamber version.
 96: Fb4 in FS, Bb4 in part. Other parts have Bb so part is probably correct. 
 121: ppp only in part.
+121-122: Part has 2 pupitres unis. Only 1er pupitre plays in FS. 1er and 2e pupitre parts swapped between FS and part.
 129: Part has pp. All other parts have p.
+129: FS still marked 2 pupitre but it is dropped later without indication and 2-pupitre col legno would be inaudible.
 147: Decrescendo at beginning of measure in FS, at end in part.
 140.2-151: This is slurred in part.
 163.2: FS has C instead of C#.
 166: Accent only in FS. Upbow mark only in part. (162 has upbow mark in both.)
+174-175: Trill is split in FS but continues through in part. sf at 175 only in part.
+188.2: Part has Eb3,Bb3. FS has E#3,B3. Part matches bassoon.
 190: Crescendo only in part.
 192-195: Dynamics only in part.
+196-197: Div starts at 196 in FS, at 197 in part.
+203.2: p only in part.
 
 Basses
 ------
