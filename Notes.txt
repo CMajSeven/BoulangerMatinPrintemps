@@ -459,6 +459,7 @@ Cellos
 192-195: Dynamics only in part.
 196-197: Div starts at 196 in FS, at 197 in part.
 203.2: p only in part.
+203: Slur starts from sixteenths in part. Unclear in FS. Changing to be consistent with rest of strings.
 
 Basses
 ------
@@ -467,21 +468,26 @@ Basses
 44: Crescendo only in part.
 46: ff only in part.
 54: pp in FS, ppp in part.
-68-81: *** In FS, div.2 with upper having similar part to violas and lower playing first beats pizz. In part, this is unison held out dotted half-notes.
-82-90: *** Only the lower divisi is in part (as unis).
+68-75: *** In FS, div.2 with upper having similar part to violas and lower playing first beats pizz. In part, this is unison held out dotted half-notes.
+72: The FS has arco written above the staff, but the upper divisi is already arco. (arco below staff at 86.)
+76-90: *** Only the lower divisi is in part (as unis).
+82: f only in part.
 82-85: Slurs missing, inserting.
+86: In part, held note is rearticulated.
 91-92: Octave lower in part.
 144-151: ** The on-beat and off-beat eighths are split in FS, but are all unis in part.
 157, 150, 151: Dynamics only in part.
 154: Crescendo only in FS.
-162-163: ** In FS, this is arco. In part this pizz. without grace notes.
+162-163: ** In FS, this is arco. In part this is pizz without grace notes.
 162: Dynamics only in part.
-172-175: Dynamics only in part.
+171-175: Dynamics only in part.
 176-179: ** This section is only in part.
 190-191: ** This section is only in part.
 193: Dynamics only in part.
 195: Dynamics only in part.
 201: An arco indication should probably be here (missing in part and FS).
+203.2: p only in part.
+203: Slur starts from sixteenths in part. Unclear in FS. Changing to be consistent with rest of strings.
 
 Misc
 ----
