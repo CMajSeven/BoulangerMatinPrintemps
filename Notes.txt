@@ -4,7 +4,10 @@ Trills generally aren't tied; ties added.
 **: Noteworthy (non-reconcilable) difference.
 ***: Very significant difference between part and score.
 
+All
+---
 Tempo marking in FS has q=126, written in a different hand. Duet has tempo marking of q=144.
+200-203: Staff level crescendos have various start and stop points here. System level crescendo over all strings. Making all crescendos extend to 203.
 
 Flutes
 ------
@@ -41,7 +44,7 @@ Flutes
 184: f only in part (potentially ff but second f is faded).
 188: ** Parts have C#6 and F#6, which would match piano version, crossed out with G#5 and D#6, matching FS. 
 192: Woodwind runs crescendo only in parts.
-201-203: Dynamics only in part.
+201-203: Dynamics only in part. Original crescendo extends 3 beats.
 
 Piccolo
 -------
@@ -53,6 +56,7 @@ Piccolo
 178: Full score has F#, part has F. Violins has F, so F is probably correct. Slur break before 179 in part.
 180: Full score F#, part has G#. No one else has F# so G# is probably correct.
 197: Articulation only in part. Removing marcato (leaving staccato) for consistency.
+202: ff only in part. Moving ff to 203 and adding crescendo.
 
 Oboes
 -----
@@ -82,7 +86,9 @@ Oboes
 172: ff only in part.
 188: ** See note for flutes
 200: Adding p
+200-203: Crescendo originally stops at 202.2.
 203: Adding ff
+205-206: Only instruments with crescendo here, which is only in part. Removing
 
 English Horn
 ------------
@@ -93,6 +99,7 @@ English Horn
 49: Crescendo only in FS
 50: Accent only in FS
 53: Beat 3 E should probably have natural
+58: Adding mf
 75: Slur starts on A in part. Crescendo only in part.
 80-82: Crescendos, mf, f only in part.
 83: Accent missing in part.
@@ -107,6 +114,7 @@ English Horn
 188: FS missing natural on F
 190: Crescendo in part only
 194: Inserting mf
+201-203: Adding (mp) crescendo to ff.
 202: Last quarter note flat on E only in part. E natural matches horns. E flat matches others.
 
 Clarinets
@@ -128,7 +136,7 @@ Clarinets
 52-53: Slur extends to eighth note beat 1 of 53 in part.
 54: Part has mf; FS has p.
 54-56: Slur in part only.
-56: Crescendo in part only.
+56: Crescendo in part only, beats 2 and 3. Moving to 1 to match others.
 56-58: Slur only extends to end of 57 in part. FS is consistent with bassoon part.
 59: Respelling C# to Db.
 60: Adding mf to clarinet 2
@@ -153,6 +161,7 @@ Clarinets
 181: Decrescendo in part only.
 188: sf in part here likely a misreading from the bass clarinet and bassoons as no other upper woodwinds have sf.
 196: Part has ff with first f drawn in post. FS has f.
+200-203: Crescendo originally stops at 202.2.
 205: (Redundant) ff only in part
 
 Bass Clarinet
@@ -171,6 +180,7 @@ Part transposed from A to Bb.
 189: FS has Es (in A). Part has Ebs. Using Ebs in line with other instruments.
 190: Whole measure staccato in part only.
 196: Part has ff instead of f.
+201-203: Crescendo original stops at 202.1. Adding (mp) to ff.
 205: ff in part only, moving to 203 to align with other parts.
 
 Bassoons
@@ -200,10 +210,12 @@ Bassoons
 176, 184: ff only in part.
 188.3: Bassoon 1 in part has B#, FS has explicit Bb. Minor second probably correct, so bassoon 2 should probably have E#.
 196: Part has ff instead of f, and then f at 198. Normalizing to f from other parts.
+201-203: Crescendo original starts at 201.2 and ends at 202.1. Adding ff.
 
 Sarrusophone
 ------------
 196: Part has both ff and mf written. FS has mf
+202-203: Adding dynamics.
 
 Horns 1 and 2
 -------------
@@ -233,6 +245,7 @@ Horns 1 and 2
 191: Adding ff
 196: mf is on 2nd eighth in part, at start in FS.
 197: Slur covers whole measure in part, starts at sixteenth notes in FS.
+200-203: Crescendo original stops at 202.
 207: A and E, should probably be a whole step up to fit concert E minor chord.
 
 Horns 3 and 4
@@ -258,6 +271,7 @@ Horns 3 and 4
 191: Adding ff. # on C# missing in FS.
 194: f in part, mf in FS. mf to agree with horns 1 and 2.
 197: See slur notes horns 1 and 2.
+200-203: Crescendo original stops at 202.
 205: Horn 4 has B in part, C in FS. Part probably correct to match E in other parts.
 207: C and E, should probably be a whole step up to fit concert E minor chord.
 
@@ -280,6 +294,7 @@ Trumpets 1 and 2
 190-191: Dynamics only in part.
 196-200: Trumpet 2 and 3 parts swapped between FS and parts. i.e. in FS, 1 and 2 are a2. In parts, 1 and 3 are a2.
 201-202: p only in FS.
+201-203: Crescendo originally stops at 202.
 
 Trumpet 3
 ---------
@@ -288,6 +303,7 @@ Trumpet 3
 192: Adding ff sim. other trumpet parts. 
 196-200: See note for trumpets 1 and 2.
 201-202: Part has ff, should probably be same as trumpet 1.
+201-203: Originally marked ff with no crescendo. Dynamics only in part.
 205-206: Should probably be tied like other trumpets.
 
 Trombones 1 and 2
@@ -296,6 +312,7 @@ Trombones 1 and 2
 85: Trombone 2 has E in FS, E overwritten with F and "fa" written below in part. F probably correct based on duet version and other parts.
 172-174: Part has no accent, marked p, and all tied. FS has accent, f, and no ties.
 182-183: Part has slur and no accents. FS has no slur and accents.
+189-190: Adding mf and p to match other parts.
 191: FS has no # on C trombone 2. Part has C# to match cellos.
 198: Adding articulation based on previous measures and tuba part.
 
@@ -314,11 +331,13 @@ Trombone 3
 Tuba
 ----
 82-83: See trombone 3
+87, 89: Adding dynamics from trombone 3.
 174: Copying dynamics from trombones.
 190: Crescendo only in part.
 191: Adding ff
 198: Marcato only in part.
-200: mf only in part.
+200: mf only in part, reducing to p.
+200-203: Crescendo original starts at 201.2
 
 Percussion
 ----------
