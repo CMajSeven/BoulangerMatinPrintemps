@@ -11,7 +11,7 @@ Tempo marking in FS has q=126, written in a different hand. Duet has tempo marki
 
 Flutes
 ------
-3: FS flutes should be marked a2 (parts are a2)
+3: ** FS is not marked with any player indication. Part has only player 1 marked solo, and "col 1" written over rests for player 2.
 3-4: Staccatos only in part
 6: FS has 16,16,8. Part has 8,16,16. Part matches duet.
 10: FS has 8.16. Part has 8,16r,16. FS probably correct based on other occurrences and slur. Only part has dynamics.
@@ -527,7 +527,7 @@ Violas
 61: No slur in FS.
 64: sf is on the solo pizz in part, but on the altri trill in FS. f only in part (which is louder than any other part). Changing to sfp like similar violin I section.
 68-77.1: Alto solo is tacet instead of unis in FS. Part is unis. "div en 2." written in FS but does not continue after 68. 
-77: ** Transition from solo to div with no indication at 79/82 so it is unclear whether this is div or solo+altri.
+77: ** Transition from solo to div with no indication at 79/82 so it is unclear whether this is div or solo+altri. More likely div.
 78: Slur only in FS.
 88: Lower divisi missing flat on C in FS.
 94-95: Slur over both measures in FS, one measure each in part.
