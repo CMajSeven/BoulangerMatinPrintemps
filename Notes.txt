@@ -230,7 +230,7 @@ Horns 1 and 2
 80-81: Crescendo only in part.
 86-87: Crescendo only in part.
 88: FS has D, Cb, Bb; part has F, Eb, Db. Based on cellos and duet version, part is correct.
-90: FS has half-note Bb. Part has quarter note Bb then dotted quarter note Gb (like cello part).
+90: ** FS has half-note Bb. Part has quarter note Bb then dotted quarter note Gb (like cello part).
 121: ppp only in part.
 128: Decrescendo only in part.
 170-171: Crescendo only over 170.2-.3 in FS.
@@ -377,7 +377,7 @@ Celesta
 129: "gai" only in part.
 129-136: ** Only the upper octave is in the part.
 140.1 RH: B in FS marked as B#, probably an error.
-140.3 LH: G in FS. A with "la" written in in part. A would be consistent with harp phrases. See harp
+140.3 LH: ** G in FS. A with "la" written in in part. A would be consistent with harp phrases. See harp
 
 Harp
 ----
@@ -398,7 +398,7 @@ Harp
 133: Legato only in part.
 134: Sharp missing on C LH in FS.
 138: FS has bass clef, should be treble clef.
-140.3 LH: G in FS. A in part. A would be consistent with surrounding measures.
+140.3 LH: ** G in FS. A in part. A would be consistent with surrounding measures.
 183: Crescendo only in part.
 194-195: Crescendo is in 194 only in FS, over both in part.
 196: f in part, ff in FS.
@@ -419,7 +419,7 @@ Violin I
 42-46: Part has slurs but also bow markings, removing slurs.
 52: Decrescendo only in FS.
 68: "la moitié" crossed out in part.
-72: div 2 doesn't play the Db in FS.
+72: ** div 2 doesn't play the Db in FS.
 73: pp for upper divisi only in part. Crescendo only in part.
 76: Upper part, tailing grace notes missing in part.
 76: Lower part, slur only in part
