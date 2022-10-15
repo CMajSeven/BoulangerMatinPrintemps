@@ -42,7 +42,7 @@ Flutes
 172: Inserting ff
 174: missing slur in part.
 184: f only in part (potentially ff but second f is faded).
-188: ** Parts have C#6 and F#6, which would match piano version, crossed out with G#5 and D#6, matching FS. 
+188: C Parts have C#6 and F#6, which would match piano version, crossed out with G#5 and D#6, matching FS. 
 192: Woodwind runs crescendo only in parts.
 201-203: Dynamics only in part. Original crescendo extends 3 beats.
 
