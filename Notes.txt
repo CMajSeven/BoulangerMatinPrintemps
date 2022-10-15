@@ -292,7 +292,7 @@ Trumpets 1 and 2
 184: Trumpet 2 doesn't has eighth rest instead of C# in FS.
 187-188: Tie only in part.
 190-191: Dynamics only in part.
-196-200: Trumpet 2 and 3 parts swapped between FS and parts. i.e. in FS, 1 and 2 are a2. In parts, 1 and 3 are a2.
+196-200: Trumpet 2 and 3 parts swapped between FS and parts. i.e. in FS, 1 and 2 are a2. In parts, 1 and 3 are a2. As 3 is optional, parts are more logical.
 201-202: p only in FS.
 201-203: Crescendo originally stops at 202.
 
