@@ -76,7 +76,7 @@ Oboes
 82: Part has f with m added in front. No dynamics in FS.
 83-84: Slur extends to Fb in FS but not in part. Oboe 2 has different slur divisions.
 86-89: *** This section is crossed out in the part. In part, oboes play only an eighth note F4 at ppp with decrescendo in previous measure.
-87: Trill should perhaps be # to match flute. No part has an E natural, but natural is in both FS and part.
+87: Trill should perhaps be # to match flute. No part has an E natural. Sharp is in both FS and part.
 92: pp and decrescendo only in part, messily drawn in post. Copying dynamics from flute part.
 98: Beam split for consistency. "Solo" only in part.
 112: Slur in part
