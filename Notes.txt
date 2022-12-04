@@ -69,7 +69,9 @@ Oboes
 45-46: D# tied in part but not FS.
 46-47: Normalizing dynamic to "f rhythmé"
 48: Oboe 1 graces are A5,G5 in FS and A5,B5 in part. Oboe 2 graces are A4,B4 in FS and E5,F#5 in part. ff only in part, seems poorly balanced with other parts.
+49.3: FS has C5+G5, part has G5+C6.
 50-51: Slurs connect full runs in part but not FS.
+51: In FS, oboe 2 run is from A to E, instead of octave below oboe 1.
 60: mf only in part
 61: Only part has decrescendo. End of phrase eighth note instead of quarter note in part.
 76-81: Oboe 1 slurs extend over last note on line but aren't drawn past line break in both FS and part (at different places), continuing slur until 81.
@@ -78,12 +80,14 @@ Oboes
 86-89: *** This section is crossed out in the part. In part, oboes play only an eighth note F4 at ppp with decrescendo in previous measure.
 87: Trill should perhaps be # to match flute. No part has an E natural. Sharp is in both FS and part.
 92: pp and decrescendo only in part, messily drawn in post. Copying dynamics from flute part.
-98: Beam split for consistency. "Solo" only in part.
+98: Beam split for consistency. "Solo" only in part. FS missing flat on Gb.
 112: Slur in part
 138-139: Slur breaks with measure in FS, slur breaks after measure in part.
 160: p only in FS.
+165: Accents only in part.
 166: sf only in part.
 172: ff only in part.
+181: FS has flat on E.
 188: ** See note for flutes
 200: Adding p
 200-203: Crescendo originally stops at 202.2.
@@ -125,13 +129,15 @@ Clarinets
 20-21: Crescendo only in part
 25: Adding crescendo from flutes. pp sub at 26 makes little sense without it.
 30-31: Splitting beams for consistency with other parts.
+31.1: FS has Ab,Bb instead of F,G
 34: Crescendo only in FS.
 45: Dynamics only in part
 46: Part has ff très rhythmé. FS has f.
 46-47: Normalizing dynamic to "f rhythmé"
 47: Slur extends to eighth note beat 3 in part.
-48: FS has no grace notes for clarinet 2.  ff only in part, seems poorly balanced with other parts.
+48, 49.1: FS has no grace notes or beat 1 for clarinet 2.  ff only in part, seems poorly balanced with other parts.
 49: Adding sf based on other woodwinds.
+50: Clarinet 2 missing natural on A.
 50-51: Slurs connect full runs in part but not FS.
 52-53: Slur extends to eighth note beat 1 of 53 in part.
 54: Part has mf; FS has p.
@@ -142,6 +148,7 @@ Clarinets
 60: Adding mf to clarinet 2
 76: Dynamic only in part.
 82: Part has mf written over f. FS has f.
+82.1.5: Unison E in FS, D+E in part.
 82-84: Inserting slurs based on oboe, missing between first 2 notes and second phrase of clarinet 2.
 85: FS clarinet 1 last eighth note has Eb, likely supposed to be D.
 86-89: *** This section is crossed out in the part. In part, both clarinets play an eighth note G#5 at pp with decrescendo and different notes in previous measure.
@@ -198,7 +205,7 @@ Bassoons
 76-81: No slur in FS bassoon 2.
 79: Missing # on C bassoon 1.
 82: f only in part.
-82-85: Bassoon 1 part only in FS.
+82-85: ** Bassoon 1 part only in FS.
 83-84: Tie bassoon 2 only in part.
 90: Bassoon 2 has Ab in part, A in FS. Part right based on duet version.
 90-93: Dynamics only in part.
@@ -289,7 +296,7 @@ Trumpets 1 and 2
 172.1: Part has quarter slurring into beat 2. FS has marcato, no slur. Changing to match woodwinds.
 176: Should probably have staccatos on the eighth notes. Trumpet 2 may require Bb trumpet.
 183: Crescendo and ff only in part.
-184: Trumpet 2 doesn't has eighth rest instead of C# in FS.
+184.1.5: Trumpet 2 has C# in part where FS has eighth rest.
 187-188: Tie only in part.
 190-191: Dynamics only in part.
 196-200: Trumpet 2 and 3 parts swapped between FS and parts. i.e. in FS, 1 and 2 are a2. In parts, 1 and 3 are a2. As 3 is optional, parts are more logical.
@@ -369,6 +376,7 @@ Celesta
 11-12: Dynamics only in part.
 82-88: Slurs only in part.
 85: FS missing flat on upper Ab.
+88: LH has bass clef instead of treble in FS.
 90-92: Slurs only in FS.
 91-92: Slur ends after 91 in FS, at 92.2 in part.
 117: FS has D grace note. Part has D#. Minor second of part probably correct. Trill accidentals only in part.
@@ -434,7 +442,7 @@ Violin I
 117-120: FS violin II solo is written here and crossed out.
 123: Part has eighth note, FS has quarter note.
 132: Slur only in part.
-134: FS upper divisi missing sharp on C.
+134: FS upper divisi missing sharp on C#.
 135: Crescendo only in part.
 142: mf, de la pointe only in part.
 143: Part continues melody (clarinet part) but is crossed out.
@@ -478,8 +486,8 @@ Violin II
 80-81: Lower part, slurs only in part.
 81: FS grace note has E#, part has E (no accidental).
 82-85: Slur over all 4 measures in part, over each measure in FS.
-86: Second eighth note, FS has Db, part has Bb.
-88: ** Part has Bb, FS has Db.
+86.1.5: Part missing flat on Cb.
+88.2: ** Part has Bb, FS has Db.
 90-95: ** In FS, div. in 2 and only half plays. In part, unis throughout.
 91-92: Decrescendo only in FS (viola shares decrescendo).
 94: Decrescendo only in part (viola shares decrescendo). Adding pas sec from viola part.
@@ -489,6 +497,7 @@ Violin II
 117: An A is written instead of G (compare Vl. I solo and duet version).
 119: *** Sim run at Vl. I:115
 135.2: 2&3 have B and A in FS, D and C in part. Part is correct based on duet version.
+142.3: FS missing natural on D.
 152-159: *** Part has pizz. eighth notes. FS has arco syncopated quarter notes.
 161: *** Part has eighth notes on single note G or Eb. FS has 32nd note tremolo between G and Eb.
 162: Crescendo only in FS. Slur over whole measure to next in FS, only over grace notes in part.
@@ -502,6 +511,7 @@ Violin II
 186: FS has C instead of C#.
 189-190: Slurring different
 192-196: This part lacks dynamics in FS. Only a crescendo from 192.3 over 193 in part.
+196: Note last 1 beat in FS, 1.5 in part.
 197: sf only in FS.
 200: FS has fp, part has ff.
 204-206: Slur split at 205 in FS. Slur extends over whole run in part.
@@ -529,7 +539,7 @@ Violas
 68-77.1: Alto solo is tacet instead of unis in FS. Part is unis. "div en 2." written in FS but does not continue after 68. 
 77: ** Transition from solo to div with no indication at 79/82 so it is unclear whether this is div or solo+altri. More likely div.
 78: Slur only in FS.
-88: Lower divisi missing flat on C in FS.
+88: Lower divisi missing flat on Cb in FS.
 94-95: Slur over both measures in FS, one measure each in part.
 113-127: ** The double stop chords in part are split in FS (div -> div.2, div.2 -> div.3). Solo at 121 continues from respective version.
 125-129: ** Solo is muted in part, unmuted in FS.
@@ -588,7 +598,7 @@ Cellos
 140.2-151: This is slurred in part.
 144: Part says simple instead of souple
 150-151: Slur only in part.
-163.2: FS has C instead of C#.
+163.2: FS missing sharp on C#.
 166: Accent only in FS. Upbow mark only in part. (162 has upbow mark in both.)
 174-175: Trill is split in FS but continues through in part. sf at 175 only in part.
 188.2: Part has Eb3,Bb3. FS has E#3,B3. Part matches bassoon.
