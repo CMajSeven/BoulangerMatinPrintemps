@@ -31,7 +31,7 @@ Flutes
 59: Flute 2 decrescendo only in full score, accent only in part.
 68-71: Dynamics only in part.
 76-78: Flute 2 crescendo only in full score
-88: Flute 2 in part is in unison with flute 1.
+88-89: ** Flute 2 in part is blank (slashes stop). It is unclear whether it is still unison with flute 1. (In any case does not match FS.)
 100: FS and part don't have p on 2nd eighth note like the previous measures. Adding p in.
 104: Slur in full score, staccato in part.
 112: No decrescendo in part.
@@ -125,6 +125,7 @@ Clarinets
 ---------
 12: mf solo, only in part. Not including "solo" as it is with flute.
 13, 15: Adding staccatos based on duet version and flute part.
+14:Part has E# instead of E.
 18: "Solo" only in part.
 20-21: Crescendo only in part
 25: Adding crescendo from flutes. pp sub at 26 makes little sense without it.
@@ -153,14 +154,14 @@ Clarinets
 85: FS clarinet 1 last eighth note has Eb, likely supposed to be D.
 86-89: *** This section is crossed out in the part. In part, both clarinets play an eighth note G#5 at pp with decrescendo and different notes in previous measure.
 90-94: *** This section is only in the part.
-95: Part has B# as last note. FS has B. Based on oboe part, FS is correct.
+95: Part has B# instead of B.
 106: marcato staccato only in part.
 111: sf only in FS.
 129-137: *** This section is only in the part. It is the same as the flute solo here.
 141: Decrescendo only in FS.
 144: Part has pp; FS has p.
 160: Copying sfp from oboes. Part and FS only have sf.
-163: Clarinet 1 has E natural, FS has no accidental. Piano part in duet has concert B#s. Copying crescendo from oboes.
+163: Clarinet 1 has E natural in part, FS has no accidental. Piano part in duet has concert B#s. Copying crescendo from oboes.
 166: Trill accidentals only in part. Crescendo after(?) grace notes only in ff. f at 167 only in part.
 168-172: Dynamics only in part. Inserting ff at 172.
 174: ff only in part.
@@ -183,6 +184,7 @@ Part transposed from A to Bb.
 161-162: Normalizing dynamics between English horn, bass clarinet, and bassoons.
 167.3: Part has A-B. FS has A#-B. To match bassoon and have consistent half-steps, FS is correct. Crescendo in FS only, matches other parts.
 176: ff in part only.
+183: Adding sf based on other instruments.
 187: Crescendo in part only.
 189: FS has Es (in A). Part has Ebs. Using Ebs in line with other instruments.
 190: Whole measure staccato in part only.
@@ -365,7 +367,7 @@ Use of up- and down-stem voices in "snare drum or castanet" part is very inconsi
 103, 105: Up-stem in FS, down-stem in part.
 104, 106: Double-stemmed in FS, down-stem in part.
 108: ppp only in part.
-121: This cymbal hit is at 122 in FS.
+121: ** This cymbal hit is at 122 in FS.
 197: f only in FS.
 204-206: All tied in FS, no ties in part. Cutting tie at 206 to match trill.
 
@@ -429,6 +431,7 @@ Violin I
 68: "la moitié" crossed out in part.
 72: ** div 2 doesn't play the Db in FS.
 73: pp for upper divisi only in part. Crescendo only in part.
+73: flat on trill only in FS.
 76: Upper part, tailing grace notes missing in part.
 76: Lower part, slur only in part
 77: F instead of F# in part upper divisi. Crescendo only in part lower division.
