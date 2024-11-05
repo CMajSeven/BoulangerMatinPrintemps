@@ -1,1 +1,6 @@
 20: Alto missing sf in full score
+68: Alto missing tous in part (corrected 2024-11-05)
+73: Alto missing slur in lower divisi in part(Dorico bug) (corrected 2024-11-05)
+130: Alto upper divisi (middle line) should match upper line in part (corrected 2024-11-05)
+192: Violoncello missing pizz (corrected 2024-11-05 in part)
+Trumpet 2 footnote should say Mi^2 not Mi^3
